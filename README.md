@@ -8,4 +8,4 @@
 - Thorough work while integrating teamwork in encountering difficulties and reaching solutions.
 - Writing neat and understandable code by adding appropriate documentation.
 - Clean design by React Bootstrap.
-- Meeting the schedule and submitting on time.
+
